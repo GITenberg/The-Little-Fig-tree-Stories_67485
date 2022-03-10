@@ -1,5 +1,8 @@
 _repo: The-Little-Fig-tree-Stories_67485
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67485-h/images/cover.jpg
 creator:
   author:
     agent_name: Foote, Mary Hallock
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2703
     wikipedia: https://en.wikipedia.org/wiki/Mary_Hallock_Foote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67485#The-Little-Fig-tree-Stories
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67485'
